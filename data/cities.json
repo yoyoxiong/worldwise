@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +23,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Urones de Castroponce",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-27T14:24:54.930Z",
+      "notes": "",
+      "position": {
+        "lat": "42.09822241118974",
+        "lng": "-5.273437500000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Fueva, La",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-27T15:37:21.542Z",
+      "notes": "",
+      "position": {
+        "lat": "42.309815415686664",
+        "lng": "0.19775390625000003"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Saint-Desire",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-31T12:43:47.941Z",
+      "notes": "",
+      "position": {
+        "lat": "46.51351558059737",
+        "lng": "2.4609375000000004"
+      },
+      "id": 98443200
     }
   ]
 }
